@@ -1,0 +1,395 @@
+{
+  "width": 2160,
+  "height": 1215,
+  "pages": [
+    "/slides/page-01.png",
+    "/slides/page-02.png",
+    "/slides/page-03.png",
+    "/slides/page-04.png",
+    "/slides/page-05.png",
+    "/slides/page-06.png",
+    "/slides/page-07.png",
+    "/slides/page-08.png",
+    "/slides/page-09.png",
+    "/slides/page-10.png",
+    "/slides/page-11.png",
+    "/slides/page-12.png",
+    "/slides/page-13.png",
+    "/slides/page-14.png",
+    "/slides/page-15.png",
+    "/slides/page-16.png",
+    "/slides/page-17.png",
+    "/slides/page-18.png",
+    "/slides/page-19.png",
+    "/slides/page-20.png"
+  ],
+  "objects": [
+    {
+      "src": "/slides/object-00.png",
+      "x": 573,
+      "y": 182,
+      "w": 299,
+      "h": 205
+    },
+    {
+      "src": "/slides/object-01.png",
+      "x": 1199,
+      "y": 773,
+      "w": 172,
+      "h": 121
+    },
+    {
+      "src": "/slides/object-02.png",
+      "x": 162,
+      "y": 132,
+      "w": 372,
+      "h": 277
+    },
+    {
+      "src": "/slides/object-03.png",
+      "x": 355,
+      "y": 783,
+      "w": 163,
+      "h": 165
+    },
+    {
+      "src": "/slides/object-04.png",
+      "x": 897,
+      "y": 412,
+      "w": 267,
+      "h": 334
+    },
+    {
+      "src": "/slides/object-05.png",
+      "x": 1562,
+      "y": 709,
+      "w": 122,
+      "h": 239
+    },
+    {
+      "src": "/slides/object-06.png",
+      "x": 174,
+      "y": 421,
+      "w": 300,
+      "h": 352
+    },
+    {
+      "src": "/slides/object-07.png",
+      "x": 1080,
+      "y": 122,
+      "w": 330,
+      "h": 321
+    },
+    {
+      "src": "/slides/object-08.png",
+      "x": 1230,
+      "y": 445,
+      "w": 119,
+      "h": 138
+    },
+    {
+      "src": "/slides/object-09.png",
+      "x": 899,
+      "y": 207,
+      "w": 233,
+      "h": 196
+    },
+    {
+      "src": "/slides/object-10.png",
+      "x": 522,
+      "y": 439,
+      "w": 84,
+      "h": 270
+    },
+    {
+      "src": "/slides/object-11.png",
+      "x": 843,
+      "y": 760,
+      "w": 201,
+      "h": 298
+    },
+    {
+      "src": "/slides/object-12.png",
+      "x": 1412,
+      "y": 195,
+      "w": 338,
+      "h": 180
+    },
+    {
+      "src": "/slides/object-13.png",
+      "x": 674,
+      "y": 434,
+      "w": 184,
+      "h": 225
+    },
+    {
+      "src": "/slides/object-14.png",
+      "x": 1056,
+      "y": 760,
+      "w": 136,
+      "h": 136
+    },
+    {
+      "src": "/slides/object-15.png",
+      "x": 1314,
+      "y": 975,
+      "w": 600,
+      "h": 38
+    },
+    {
+      "src": "/slides/object-16.png",
+      "x": 1370,
+      "y": 759,
+      "w": 187,
+      "h": 134
+    },
+    {
+      "src": "/slides/object-17.png",
+      "x": 443,
+      "y": 655,
+      "w": 387,
+      "h": 419
+    },
+    {
+      "src": "/slides/object-18.png",
+      "x": 153,
+      "y": 789,
+      "w": 195,
+      "h": 239
+    },
+    {
+      "src": "/slides/object-19.png",
+      "x": 1723,
+      "y": 439,
+      "w": 217,
+      "h": 269
+    },
+    {
+      "src": "/slides/object-20.png",
+      "x": 1776,
+      "y": 172,
+      "w": 238,
+      "h": 238
+    },
+    {
+      "src": "/slides/object-21.png",
+      "x": 1227,
+      "y": 593,
+      "w": 118,
+      "h": 130
+    },
+    {
+      "src": "/slides/object-22.png",
+      "x": 1399,
+      "y": 440,
+      "w": 253,
+      "h": 270
+    },
+    {
+      "src": "/slides/object-23.png",
+      "x": 1059,
+      "y": 916,
+      "w": 241,
+      "h": 164
+    },
+    {
+      "src": "/slides/object-24.png",
+      "x": 1733,
+      "y": 783,
+      "w": 313,
+      "h": 121
+    }
+  ],
+  "vases": [
+    {
+      "xref": 615,
+      "whole": {
+        "src": "/slides/vase-615.png",
+        "x": 774,
+        "y": 411,
+        "w": 441,
+        "h": 554
+      },
+      "pieces": [
+        {
+          "src": "/slides/vase-615-piece-00.png",
+          "x": 774,
+          "y": 411,
+          "w": 294,
+          "h": 529
+        },
+        {
+          "src": "/slides/vase-615-piece-01.png",
+          "x": 955,
+          "y": 411,
+          "w": 260,
+          "h": 275
+        },
+        {
+          "src": "/slides/vase-615-piece-02.png",
+          "x": 990,
+          "y": 652,
+          "w": 99,
+          "h": 135
+        },
+        {
+          "src": "/slides/vase-615-piece-03.png",
+          "x": 1026,
+          "y": 683,
+          "w": 159,
+          "h": 131
+        },
+        {
+          "src": "/slides/vase-615-piece-04.png",
+          "x": 886,
+          "y": 809,
+          "w": 247,
+          "h": 156
+        }
+      ]
+    },
+    {
+      "xref": 618,
+      "whole": {
+        "src": "/slides/vase-618.png",
+        "x": 448,
+        "y": 405,
+        "w": 464,
+        "h": 584
+      },
+      "pieces": [
+        {
+          "src": "/slides/vase-618-piece-00.png",
+          "x": 448,
+          "y": 405,
+          "w": 304,
+          "h": 361
+        },
+        {
+          "src": "/slides/vase-618-piece-01.png",
+          "x": 631,
+          "y": 413,
+          "w": 281,
+          "h": 412
+        },
+        {
+          "src": "/slides/vase-618-piece-02.png",
+          "x": 571,
+          "y": 539,
+          "w": 170,
+          "h": 197
+        },
+        {
+          "src": "/slides/vase-618-piece-03.png",
+          "x": 674,
+          "y": 572,
+          "w": 167,
+          "h": 187
+        },
+        {
+          "src": "/slides/vase-618-piece-04.png",
+          "x": 515,
+          "y": 729,
+          "w": 307,
+          "h": 260
+        },
+        {
+          "src": "/slides/vase-618-piece-05.png",
+          "x": 593,
+          "y": 733,
+          "w": 180,
+          "h": 229
+        }
+      ]
+    }
+  ],
+  "views": [
+    {
+      "src": "/slides/view-0.png",
+      "x": 1000,
+      "y": 236,
+      "w": 217,
+      "h": 716
+    },
+    {
+      "src": "/slides/view-1.png",
+      "x": 1253,
+      "y": 229,
+      "w": 196,
+      "h": 723
+    },
+    {
+      "src": "/slides/view-2.png",
+      "x": 1513,
+      "y": 236,
+      "w": 196,
+      "h": 716
+    },
+    {
+      "src": "/slides/view-3.png",
+      "x": 1753,
+      "y": 236,
+      "w": 216,
+      "h": 716
+    }
+  ],
+  "grid": [
+    {
+      "x": 141.91755,
+      "y": 121.5,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 141.91755,
+      "y": 454.81950000000006,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 141.91755,
+      "y": 787.689,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 475.23749999999995,
+      "y": 121.5,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 475.23749999999995,
+      "y": 454.81950000000006,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 475.23749999999995,
+      "y": 787.689,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 808.1070000000001,
+      "y": 121.5,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 808.1070000000001,
+      "y": 454.81950000000006,
+      "w": 305.811,
+      "h": 305.811
+    },
+    {
+      "x": 808.1070000000001,
+      "y": 787.689,
+      "w": 305.811,
+      "h": 305.811
+    }
+  ],
+  "collageBase": "/slides/collage-base.png",
+  "ceramicBase": "/slides/ceramic-base.png",
+  "characterBase": "/slides/character-base.png"
+}
